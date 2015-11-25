@@ -24,8 +24,6 @@
 BOARD_GPS_SET_PRIVACY := true
 
 # Recovery
-TARGET_RECOVERY_FSTAB := device/samsung/t0lte/rootdir/fstab.smdk4x12
-RECOVERY_FSTAB_VERSION := 2
 BOARD_RECOVERY_SWIPE := true
 
 # assert
